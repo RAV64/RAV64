@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RAV64
-- 👀 I’m interested in programming, chess and Formula-1
+- 👀 I’m interested in Neovim, programming, chess and Formula-1
 - 🌱 I’m currently learning different programming languages and basics of project structure
 - 💞️ I’m looking to collaborate on anything where my input is valued
 
